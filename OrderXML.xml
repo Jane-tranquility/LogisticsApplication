@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Orders>
+	
+
+	<Order>
+		<Id>TO-001</Id>
+		<Sttime>1</Sttime>
+		<Dest>Miami, FL</Dest>
+		<Item>
+			<Id>ABC123</Id>
+			<Qty>180</Qty>
+		</Item>
+		<Item>
+			<Id>CR2032</Id>
+			<Qty>320</Qty>
+		</Item>
+	</Order>
+	
+	<Order>
+		<Id>TO-002</Id>
+		<Sttime>1</Sttime>
+		<Dest>Boston, MA</Dest>
+		<Item>
+			<Id>PL132-C</Id>
+			<Qty>5</Qty>
+		</Item>
+		<Item>
+			<Id>XLK200B</Id>
+			<Qty>120</Qty>
+		</Item>
+	</Order>
+
+	<Order>
+		<Id>TO-003</Id>
+		<Sttime>4</Sttime>
+		<Dest>Seattle, WA</Dest>
+		<Item>
+			<Id>XTP202</Id>
+			<Qty>100</Qty>
+		</Item>
+		<Item>
+			<Id>E241i</Id>
+			<Qty>105</Qty>
+		</Item>
+	</Order>
+	
+	
+
+	<Order>
+		<Id>TO-004</Id>
+		<Sttime>10</Sttime>
+		<Dest>Phoenix, AZ</Dest>
+		<Item>
+			<Id>CR2032</Id>
+			<Qty>200</Qty>
+		</Item>
+		<Item>
+			<Id>SR71-D</Id>
+			<Qty>85</Qty>
+		</Item>
+	</Order>
+
+	<Order>
+		<Id>TO-005</Id>
+		<Sttime>7</Sttime>
+		<Dest>Chicago, IL</Dest>
+		<Item>
+			<Id>XLK200B</Id>
+			<Qty>120</Qty>
+		</Item>
+		<Item>
+			<Id>RX100-3</Id>
+			<Qty>200</Qty>
+		</Item>
+	</Order>
+
+	<Order>
+		<Id>TO-006</Id>
+		<Sttime>8</Sttime>
+		<Dest>Denver, CO</Dest>
+		<Item>
+			<Id>CT1928</Id>
+			<Qty>120</Qty>
+		</Item>
+	</Order>
+		
+
+</Orders>
